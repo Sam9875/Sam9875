@@ -33,11 +33,11 @@ A retrieval desk. The notes are indexed once. A question hits a guard, then one 
 - **Crystal** expands the names once, then stops.
 - **Aurora** can search again, at most twice.
 
-The answer is copied from the notes. A cited sentence has to appear in the passage it cites. Open `dashboard/index.html` and choose **Flow** to follow one question.
+The answer is copied from the notes. A cited sentence has to appear in the passage it cites. The live dashboard is [sam9875.github.io/prism-observatory](https://sam9875.github.io/prism-observatory/). Choose **Flow** to follow one question.
 
 ### [Claimline](https://github.com/Sam9875/claimline)
 
-A brief that can cite only work you can point at. It screens the job text, keeps cards that already list the skill, and writes each sentence from a template. A request for years of experience is never marked covered. Open `dashboard/index.html`. **How it moves** is the path. **This brief** is one sample result.
+A brief that can cite only work you can point at. It screens the job text, keeps cards that already list the skill, and writes each sentence from a template. A request for years of experience is never marked covered. The live dashboard is [sam9875.github.io/claimline](https://sam9875.github.io/claimline/). **How it moves** is the path. **This brief** is one sample result.
 
 ## The labs, by job
 
